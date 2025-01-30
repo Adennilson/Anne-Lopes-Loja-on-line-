@@ -15,7 +15,7 @@ position: fixed;
 width: 100%;
 }
 header{
-height: 100px;
+height: 70px;
 background-color: #e793c6;
 display: flex;
 justify-content: space-between;
@@ -57,8 +57,8 @@ color: #a6a6a6;
 
 
 .banner {
-margin: 100px;
-width: 760px; /* Ajuste conforme necessário */
+margin: 10px 90px;
+width: 780px; /* Ajuste conforme necessário */
 height: 400px; /* Ajuste conforme necessário */
 overflow: hidden;
 }
