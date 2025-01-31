@@ -46,9 +46,9 @@ produtos.appendChild(novoProduto);
 }
 
 // Exemplos de uso:
-adicionarProduto("batom.jpg", "Batom Matte Vermelho", "Batom de longa duração com acabamento matte.", 29.99);
-adicionarProduto("gloss.jpg", "Base Líquida", "Base leve e com alta cobertura muito o produto de vexlente qualidade.", 49.90);
-adicionarProduto("gloss.jpg", "Corretivo", "Corretivo cremoso para disfarçar olheiras e imperfeições.", 19.99);
-adicionarProduto("batom.jpg", "Batom Matte Vermelho", "Batom de longa duração com acabamento jfhfhf dhfjjfjjfjf jfhhdhfjfj durjrhhrhf matte.", 29.99);
-adicionarProduto("gloss.jpg", "Base Líquida", "Base leve e com alta cobertura.", 49.90);
-adicionarProduto("gloss.jpg", "Corretivo", "Corretivo cremoso para disfarçar olheiras e imperfeições.", 19.99);
+adicionarProduto("batom.jpg", "Batom Matte Vermelho", "Batom de longa duração com acabamento matte.", 00,00);
+adicionarProduto("gloss.jpg", "Base Líquida", "Base leve e com alta cobertura muito o produto de vexlente qualidade.", 00,00);
+adicionarProduto("gloss.jpg", "Corretivo", "Corretivo cremoso para disfarçar olheiras e imperfeições.", 00,00);
+adicionarProduto("batom.jpg", "Batom Matte Vermelho", "Batom de longa duração com acabamento jfhfhf dhfjjfjjfjf jfhhdhfjfj durjrhhrhf matte.", 00,00);
+adicionarProduto("gloss.jpg", "Base Líquida", "Base leve e com alta cobertura.", 00,00);
+adicionarProduto("gloss.jpg", "Corretivo", "Corretivo cremoso para disfarçar olheiras e imperfeições.", 00,00);
